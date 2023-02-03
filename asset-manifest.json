@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/drumMachine/static/css/main.a7406ce8.css",
-    "main.js": "/drumMachine/static/js/main.d5046285.js",
-    "static/js/787.28cb0dcd.chunk.js": "/drumMachine/static/js/787.28cb0dcd.chunk.js",
-    "static/media/digital-7.regular.ttf": "/drumMachine/static/media/digital-7.regular.93911ab167c943140756.ttf",
-    "static/media/VikingStencil.ttf": "/drumMachine/static/media/VikingStencil.914d6ad70d0c0ad2995b.ttf",
-    "index.html": "/drumMachine/index.html",
-    "main.a7406ce8.css.map": "/drumMachine/static/css/main.a7406ce8.css.map",
-    "main.d5046285.js.map": "/drumMachine/static/js/main.d5046285.js.map",
-    "787.28cb0dcd.chunk.js.map": "/drumMachine/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/DrumMachine/static/css/main.53102a5d.css",
+    "main.js": "/DrumMachine/static/js/main.d8b91c1c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DrumMachine/static/js/787.28cb0dcd.chunk.js",
+    "static/media/digital-7.regular.ttf": "/DrumMachine/static/media/digital-7.regular.93911ab167c943140756.ttf",
+    "static/media/VikingStencil.ttf": "/DrumMachine/static/media/VikingStencil.914d6ad70d0c0ad2995b.ttf",
+    "index.html": "/DrumMachine/index.html",
+    "main.53102a5d.css.map": "/DrumMachine/static/css/main.53102a5d.css.map",
+    "main.d8b91c1c.js.map": "/DrumMachine/static/js/main.d8b91c1c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DrumMachine/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7406ce8.css",
-    "static/js/main.d5046285.js"
+    "static/css/main.53102a5d.css",
+    "static/js/main.d8b91c1c.js"
   ]
 }
